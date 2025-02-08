@@ -7,7 +7,6 @@ author_profile: true
 
 
 {% include base_path %}
-My CV can be accessed here
 ## [Bayesian Learning](/teaching/bayesian-learning/)
 Master Course in Data Science, Université Côte d'Azur
 M2, first semester, 30 hours
