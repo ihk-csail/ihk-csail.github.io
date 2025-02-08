@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Principles"
-permalink: /teaching/
+permalink: /principles/
 author_profile: true
 ---
 
