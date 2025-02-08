@@ -22,14 +22,10 @@ Positions
 
 Education
 ======
-- **Habilitation à Diriger des Recherches**.\
-Université Côte d’Azur, 2020
-- **Ph.D in Signal and Image Processing**.\
-Université de Nice, 2012
-- **M.S. in Mathematics**.\
-Università degli studi di Torino, 2006
-- **B.S. in Mathematics**.\
- Università degli studi di Torino, 2004
+- **M.Sc. in Data Science and Artificial Intelligence (Ongoing)**.\
+Université Côte d’Azur, 2026
+- **B.Sc. in Computer Science and Engineering**.\
+American International University- Bangladesh, 2023
 
 <details>
   <summary>

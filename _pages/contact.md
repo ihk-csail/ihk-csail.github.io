@@ -9,16 +9,12 @@ author_profile: true
 
 ### Address:
 
-EPIONE Research Team\
-Centre Inria d'Université Côte d'Azur\
+Université Côte d'Azur\
 2004 Rte des Lucioles\
 06902 Valbonne
 
 ### Phone:
-+33 (0) 4 92 38 76 62
++33 (0) 7 510 195 61
 
 ### Email:
-<img src="/img/text1.png" alt="email">
-
-
-
+ihk.csail@gmail.com

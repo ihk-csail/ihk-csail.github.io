@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Marco Lorenzi webpage"
+title                    : "Welcome to my profile"
 title_separator          : "-"
-name                     : &name "Marco Lorenzi"
-description              : &description "Researcher at Inria"
-url                      : 'https://marcolorenzi.github.io' # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Md Imtiaz Habib"
+description              : &description "MSc in Data Science and Artificial Intelligence at UCA"
+url                      : 'https://ihk-csail.github.io' # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "marcolorenzi.github.io"
+repository               : "ihk-csail.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,19 +22,19 @@ repository               : "marcolorenzi.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Marco Lorenzi"
+  name             : "Md Imtiaz Habib"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher"
-  location         : "France"
-  employer         : "Inria"
+  bio              : "Graphs Over Words"
+  location         : "Sophiatech, France"
+  #employer         : "Inria"
   uri              : # URL
-  #email            : "none@example.org" 
+  email            : "ihk.csail@gmail.com" 
 
   # Academic websites
-  arxiv            : https://arxiv.org/search/stat?searchtype=author&query=Lorenzi,+M # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=gOkjmJcAAAAJ&hl=it"
+  arxiv            : https://arxiv.org/search/cs?searchtype=author&query=Habib,+M+I # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=2KnU-oQAAAAJ"
  # impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0003-0521-2881"
+  orcid            : "https://orcid.org/0009-0008-9151-0263"
  # semantic         : # URL
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
  # researchgate     : # URL
@@ -44,7 +44,7 @@ author:
  # bitbucket        : # Username - Update with your username on the site
  # codepen          : # Username
  # dribbble         : # Username
-  github           : "marcolorenzi"
+  github           : "ihk-csail"
  # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
  # keybase          : # Username
  # instagram        : # Username
  # lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/marco-lorenzi-45105785/# Username
+  linkedin         : "ihk-csail" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -76,12 +76,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+    #title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Research'    
+  #conferences:
+    #title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
