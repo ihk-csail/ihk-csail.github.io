@@ -21,5 +21,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Awards"
+    url:/research/
+
   - title: "Contact"
     url: /contact/
