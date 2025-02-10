@@ -6,16 +6,16 @@
 
 main:
 
-  - title: "Education"
-    url: /research/
+  # - title: "Education"
+  #   url: /research/
 
-  - title: "Research"
+  - title: "Education"
     url: /team/
 
   - title: "Experience"
     url: /software/
 
-  - title: "Principles"
+  - title: "Research"
     url: /teaching/    
     
   - title: "CV"
