@@ -20,3 +20,4 @@ Hasan. [Link](https://arxiv.org/abs/2403.17969)
 - Md Imtiaz Habib, Abdullah Al Maruf and Md. Jobair Ahmed Nabil. <em>An Exploration Into Web Session Security‑ A Systematic Literature Review.</em>
 arXiv preprint, 2022. Advisor: Prof. Dr MM Mahbubul Syeed. [Link](https://arxiv.org/abs/2310.10687)
 - <em>Signature Verification System using VGG19 By Transfer Learning.</em> AIUB, 2022. Instructor: Prof. Shakhawat Hossain [Link](https://github.com/ihk-csail/Signature-Verification-Using-VGG19-By-Transfer-Learning/blob/main/Signature%20Verification%20System%20using%20VGG16.pdf)
+- Usman Altaf Muhammad, <em>Hoang Tuan, Md Imtiaz Habib. Optimizing Agricultural Research:A RAG-based Approach to MycorrhizalFungi Information</em> Université Côte d'Azur, 2025. Advisor: Audrey Lamy Martinot. [Link](https://github.com/ihk-csail/Case-Study-An-Agentic-RAG/tree/main)

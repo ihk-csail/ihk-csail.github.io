@@ -14,5 +14,5 @@ I later worked on graph algorithms with Prof. Dr. [Md Manzurul Hasan](https://ww
 
 At present, my primary research interests include agentic AI, computer vision, NLP and graph algorithms. However, I remain open to exploring new areas as I continue my academic journey.
 
-Outside of academia, I am an enthusiast of sports, particularly football, badminton, and chess. Feel free to reach out if you’d like to discuss any of these interests!
+Outside of academia, I love photography. Besides, I am an enthusiast of sports, particularly football, badminton, and chess. I also like discuss about religion and politics. Feel free to reach out if you’d like to discuss any of these interests!
  

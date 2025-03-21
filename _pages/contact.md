@@ -10,7 +10,7 @@ author_profile: true
 ### Address:
 
 Université Côte d'Azur\
-2004 Rte des Lucioles\
+1645 Rte des Lucioles\
 06902 Valbonne
 
 ### Phone:
