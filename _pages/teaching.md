@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 ## Interests
 
--  Agentic AI, Computer Vision, Natural Language Processing, Graphs Algorithms.
+-  Explainable AI, Agentic AI, Computer Vision, Natural Language Processing, Graphs Algorithms.
 
 ## Articles
 

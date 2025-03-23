@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-My CV can be accessed here [CV](/assets/CV_MD_IMTIAZ_HABIB.pdf)
+Curriculum Vitae[English](/assets/CV_MD_IMTIAZ_HABIB.pdf)
+Curriculum Vitae[French](/assets/CV_MD_IMTIAZ_HABIB_Fr.pdf)
 
 ## Awards
 
