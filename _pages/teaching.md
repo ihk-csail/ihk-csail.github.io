@@ -11,13 +11,14 @@ author_profile: true
 
 -  Explainable AI, Agentic AI, Computer Vision, Natural Language Processing, Graphs Algorithms.
 
-## Articles
+## Projects and Articles
 
-- Md Imtiaz Habib, Md. Mehedi Hasan Zamil, Syeda Meherunnasha Mim, Talha Zubayer. <em>Automated Caption Generator Using NLP.</em> AIUB, 2022. Advisor: Prof. Md Kishor Morol. [Link](https://www.researchgate.net/publication/375183559_Automated_Caption_Generator_Using_NLP)
-- Arafat Islam, Md. Imtiaz Habib. <em>Fire Detection From Image and Video Using YOLOv5.</em> arXiv preprint , 2022. Instructor: Prof. Md Shakhawat Hossain. [Link](https://arxiv.org/abs/2310.06351)
-- Arafat Islam, Md. Imtiaz Habib. <em>Antimagic Labeling of Graphs Using Prime Numbers.</em> arXiv preprint, 2024 . Advisor: Prof. Dr. Md. Manzurul
+- <em>Optimizing Agricultural Research:A RAG-based Approach to MycorrhizalFungi Information</em> Université Côte d'Azur, 2025. Usman Altaf Muhammad, Md Imtiaz Habib, Hoang Tuan. Advisor: Audrey Lamy Martinot. [Link](https://github.com/ihk-csail/Case-Study-An-Agentic-RAG/tree/main)
+- <em>Automated Attendance Generation Using ML and DLApproach</em> Université Côte d'Azur, 2025. Instructor: Prof. Michel Riveill and Diane Lingrand. [Link](https://github.com/ihk-csail/Automated-Attendance-Generation-Using-ML-DL-Approach.git)
+- <em>Popularity Prediction and Recommendation System</em> Université Côte d'Azur, 2025. Instructor: Prof. Michel Riveill and Diane Lingrand [Link](https://github.com/ihk-csail/Popularity-prediction-and-recommendation.git)
+- <em>Antimagic Labeling of Graphs Using Prime Numbers.</em> arXiv preprint, 2024. Arafat Islam, Md. Imtiaz Habib. Advisor: Prof. Dr. Md. Manzurul
 Hasan. [Link](https://arxiv.org/abs/2403.17969)
-- Md Imtiaz Habib, Abdullah Al Maruf and Md. Jobair Ahmed Nabil. <em>An Exploration Into Web Session Security‑ A Systematic Literature Review.</em>
-arXiv preprint, 2022. Advisor: Prof. Dr MM Mahbubul Syeed. [Link](https://arxiv.org/abs/2310.10687)
-- <em>Signature Verification System using VGG19 By Transfer Learning.</em> AIUB, 2022. Instructor: Prof. Shakhawat Hossain [Link](https://github.com/ihk-csail/Signature-Verification-Using-VGG19-By-Transfer-Learning/blob/main/Signature%20Verification%20System%20using%20VGG16.pdf)
-- Usman Altaf Muhammad, <em>Hoang Tuan, Md Imtiaz Habib. Optimizing Agricultural Research:A RAG-based Approach to MycorrhizalFungi Information</em> Université Côte d'Azur, 2025. Advisor: Audrey Lamy Martinot. [Link](https://github.com/ihk-csail/Case-Study-An-Agentic-RAG/tree/main)
+- <em>Fire Detection From Image and Video Using YOLOv5.</em> arXiv preprint , 2022. Arafat Islam, Md. Imtiaz Habib. Instructor: Prof. Md Shakhawat Hossain. [Link](https://arxiv.org/abs/2310.06351)
+- <em>Automated Caption Generator Using NLP.</em> AIUB, 2022. Md Imtiaz Habib, Md. Mehedi Hasan Zamil, Syeda Meherunnasha Mim, Talha Zubayer. Advisor: Prof. Md Kishor Morol. [Link](https://www.researchgate.net/publication/375183559_Automated_Caption_Generator_Using_NLP)
+- <em>Signature Verification System using VGG19 By Transfer Learning.</em> AIUB, 2022. Md Imtiaz Habib, Kazi Tanvir, Md. Raiyan Khan, Md. Mehedi Hasan Zamil, Tajul Islam. Instructor: Prof. Shakhawat Hossain [Link](https://github.com/ihk-csail/Signature-Verification-Using-VGG19-By-Transfer-Learning/blob/main/Signature%20Verification%20System%20using%20VGG16.pdf)
+- <em>An Exploration Into Web Session Security‑ A Systematic Literature Review.</em> arXiv preprint, 2022. Md Imtiaz Habib, Abdullah Al Maruf and Md. Jobair Ahmed Nabil. Advisor: Prof. Dr MM Mahbubul Syeed. [Link](https://arxiv.org/abs/2310.10687)
