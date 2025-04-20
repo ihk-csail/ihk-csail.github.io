@@ -10,9 +10,14 @@ I am currently in M1, pursuing my MSc in Data Science and Artificial Intelligenc
 
 Toward the end of my bachelor’s program, I interned as a Software Engineer at Mediasoft Data System Limited, where I gained hands-on experience in developing web applications using C# and the .NET framework. After graduating, I joined AIUB as a Research Assistant Intern in 2024. This role deepened my interest in artificial intelligence, allowing me to gain practical experience in building and training models, reviewing research papers, and assisting professors with organizing academic materials.
 
-I later worked on graph algorithms with Prof. Dr. [Md Manzurul Hasan](https://www.aiub.edu/faculty-list/faculty-profile#manzurul@aiub.edu), where I contributed to solving an antimagic labeling problem. This experience sparked my interest in integrating graph theory with AI, shaping my current research focus.
+Certainly! Here's a polished and academically refined version of your "About Me" section:
 
-At present, my primary research interests include agentic AI, computer vision, NLP and graph algorithms. However, I remain open to exploring new areas as I continue my academic journey.
+---
+
+I have been involved in several research projects across diverse domains of artificial intelligence. Most recently, I contributed to the development of a Retrieval-Augmented Generation (RAG) system at Mycophyto under the supervision of Audrey Lami Martinot. This work focused on integrating structured data extraction with Large Language Models (LLMs) to retrieve domain-specific knowledge on arbuscular mycorrhizal fungi. Previously, my undergraduate thesis centered on natural language processing (NLP), titled 'Automated Caption Generator Using NLP. In addition, I participated in a computer vision project titled Fire Detection From Images and Videos Using YOLOv5, where we proposed an enhanced model, Fire-YOLOv5 to detect fire-like targets in indoor, outdoor, and forest environments under varying natural lighting conditions. These experiences have further strengthened my enthusiasm for working at the intersection of computer vision and computational linguistics.
+
+I have also worked on graph algorithms with Prof. Dr. [Md Manzurul Hasan](https://www.aiub.edu/faculty-list/faculty-profile#manzurul@aiub.edu), contributing to the solution of an antimagic labeling problem. This experience catalyzed my interest in the intersection of graph theory and artificial intelligence, which continues to influence my current research directions.
+
+My primary research interests include safe and aligned intelligence, agentic AI, computer vision, natural language processing, and graph theory and algorithms. Nonetheless, I remain open to exploring emerging areas of AI and related disciplines.
 
 Outside of academia, I love photography. Besides, I am an enthusiast of sports, particularly football, badminton, and chess. I also like discuss about religion and politics. Feel free to reach out if you’d like to discuss any of these interests!
- 
