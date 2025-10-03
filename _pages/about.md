@@ -14,4 +14,4 @@ Besides, I have also worked on graph algorithms with Prof. Dr. [Md Manzurul Hasa
 
 My primary research interests include safe and aligned intelligence, agentic AI, computer vision, natural language processing, and graph theory and algorithms. Nonetheless, I remain open to exploring emerging areas of AI and related disciplines.
 
-Outside of academia, I love photography and travelling. Besides, I am a health conscious guy and an enthusiast of sports, particularly football, badminton, and chess. I also like discuss about theology and politics. Does my life sound like a mess? It really isn't actually. Feel free to discuss any of the topics if we happen to cross paths!
+Outside of academia, I love photography and travelling. Besides, I am a health conscious guy and an enthusiast of sports, particularly football, badminton, and chess. I also like to discuss about theology and politics. Does my life sound like a mess? It isn't actually. Feel free to discuss any of the topics if we happen to cross paths!
