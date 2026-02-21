@@ -25,7 +25,7 @@ Research Assistant Intern \
 ## INRIA
 Machine Learning Intern \
 <span style="font-style: italic; font-size: 0.9em;"> • Built and compared LSTM and Transformer models for NCAA tournament outcome prediction (AUC up to 0.8473).</span> \
-<span style="font-style: italic; font-size: 0.9em;"> • Engineered advanced features including Elo ratings and GLM-based team quality metrics. </span>
+<span style="font-style: italic; font-size: 0.9em;"> • Engineered advanced features including Elo ratings and GLM-based team quality metrics. </span> \
 <span style="font-style: italic; font-size: 0.9em;"> • Evaluated models using BCE and Brier loss, focusing on performance and probability calibration. </span>
 
 
