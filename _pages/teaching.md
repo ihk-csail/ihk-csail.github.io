@@ -12,7 +12,7 @@ Most recently, I was part of the development of a Retrieval-Augmented Generation
 
 ## Interests
 
--  Explainable AI, Agentic AI, Computer Vision, Natural Language Processing, Graphs Algorithms.
+-  Explainable AI, Pattern Recognition, Computational Biology, Natural Language Processing, Graphs Algorithms.
 
 ## Projects and Articles
 
